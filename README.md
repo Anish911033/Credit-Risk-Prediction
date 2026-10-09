@@ -2,8 +2,8 @@
 
 Predicts whether a loan applicant is **high-risk** (likely to default) or **low-risk**, and serves the best model (Random Forest) as an interactive **Streamlit** app.
 
-- **Live app:** _add your Render URL here_
-- **Dataset:** [Credit Risk Dataset (Kaggle)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset), 32,581 loan records
+- **Live app:** [Live app](https://credit-risk-prediction-mqkt.onrender.com/)
+- **Dataset:** [Credit Risk Dataset](https://drive.google.com/file/d/1sDXZpAvkhTe9OurKGkSQSrckjbtFb6H0/view?usp=sharing), 32,581 loan records
 
 ## Results
 
